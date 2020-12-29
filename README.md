@@ -1,4 +1,4 @@
-# \*\*[Ticketmaster Search Events] Ticketmaster Search events App
+# Ticketmaster Search events App
 
 This app serve as demo to search events
 
